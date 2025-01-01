@@ -4,4 +4,4 @@ dream
 latest
 diff
 rebase
-
+merge
